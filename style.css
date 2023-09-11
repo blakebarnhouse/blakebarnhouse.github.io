@@ -1,34 +1,3 @@
-
-
-
-.name 
-{
-  font-size: 20px;
-}
-
-p {
-  
- font-size: 15px;
-  
-}
-
-h6{
-  font-size 12px;
-}
-body {
-  font-family: "Roboto Mono";
-  margin: 5% 5%;
-  
-}
-
-.main-header {
-  border-style: outset;
-}
-
-
-
-
-
 .name 
 {
   font-size: 25px;
@@ -90,10 +59,3 @@ body {
   transform: translate(-50%, 0%);
   text-align: center;
 }
-
-
-
-
-
-
-
