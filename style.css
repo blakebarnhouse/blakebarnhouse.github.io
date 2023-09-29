@@ -63,4 +63,5 @@ body {
   transform: translate(-50%, 0%);
   text-align: center;
   opacity: 0;
+  transition: 1s ease;
 }
