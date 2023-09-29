@@ -22,7 +22,7 @@ body {
   border-style: outset;
 }
 
-.container {
+.photo {
   position: relative;
   width: 50%;
 }
@@ -46,7 +46,7 @@ body {
   background-color: gray;
 }
 
-.container:hover .overlay {
+.photo:hover .overlay {
   opacity: .85;
 }
 
