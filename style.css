@@ -46,7 +46,11 @@ body {
   background-color: gray;
 }
 
-.container:hover .overlay .text {
+.container:hover .overlay {
+  opacity: .85;
+}
+
+.container:text .overlay {
   opacity: .85;
 }
 
