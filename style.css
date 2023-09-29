@@ -4,17 +4,14 @@
 }
 
 p {
-  
- font-size: 12px;
-  
+ font-size: 12px; 
 }
-
-
 
 
 ul {
-  font-size 10px;
+  font-size 12px;
 }
+
 body {
   font-family: "Roboto Mono";
   margin: 5% 5%;
